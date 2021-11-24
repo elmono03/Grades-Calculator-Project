@@ -18,7 +18,7 @@
 
 
 ## Risks
-* Learning Kivy and other libraries but i will mitigate by reading the guides, I have printed Kivy guide is over 700 pages, also I have been watching videos on Kivy and the other libraries to get a feel for them and see what they can offer
+* Learning Kivy and other libraries but i will mitigate by reading the guides, I have printed Kivy guide, also I have been watching videos on Kivy and the other libraries to get a feel for them and see what they can offer for my project.
 
 * My full time job could ge in the way, however I have been spending most of my weekends and evening coding and learning further. I have a few weeks over chirstmass off work and I will use this to complete a good majority of my project. 
 
