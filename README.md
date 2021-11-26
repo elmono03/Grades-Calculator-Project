@@ -10,7 +10,7 @@
 
 
 
-## Libraries / Other Technologies are Needed.
+## Libraries / Other Technologies Needed
 * I will need a GUI linbrary like Kivy, a library to read spreadsheets either Pandas or CSV, requests and beautiful soup to scrape websites for up to date UCAS points. I may need Flask and/or django if I choose to do the GUI as a website.  
 * At the moment the only think that is not python will be a database of grades, qualifications and UCAS points on Microsoft Excel spreadsheets. 
 
